@@ -1,9 +1,9 @@
 function fill_stickers(context, color_str){
     var colors ={ U: 'rgb(255,255,255)',
-                  B: 'rgb(00,00,255)',
+                  B: 'rgb(00,191,255)',
                   L: 'rgb(255,140,00)',
                   R: 'rgb(255,00,00)',
-                  F: 'rgb(98,251,98)',
+                  F: 'rgb(124,252,00)',
                   D: 'rgb(255,255,00)',
                 };
 
