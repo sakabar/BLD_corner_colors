@@ -53,7 +53,7 @@ var start_time = 0.0;
 function init(){
     if (canvas.getContext) {
         var context = canvas.getContext('2d');
-        context.fillStyle = 'rgb(128,128,128)';
+        context.fillStyle = 'rgb(211,211,211)';
         context.fillRect(0, 0, 500, 200);
     }
 }
